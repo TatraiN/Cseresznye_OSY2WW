@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cseresznye_OSY2WW", "Cseresznye_OSY2WW\Cseresznye_OSY2WW.csproj", "{CDAE4372-08D7-47E4-AD57-B4877EE826A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsAppColor", "WinFormsAppColor\WinFormsAppColor.csproj", "{5532D527-FDCA-4BFD-81F3-4EDA3ED170DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDAE4372-08D7-47E4-AD57-B4877EE826A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDAE4372-08D7-47E4-AD57-B4877EE826A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDAE4372-08D7-47E4-AD57-B4877EE826A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDAE4372-08D7-47E4-AD57-B4877EE826A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5532D527-FDCA-4BFD-81F3-4EDA3ED170DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5532D527-FDCA-4BFD-81F3-4EDA3ED170DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5532D527-FDCA-4BFD-81F3-4EDA3ED170DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5532D527-FDCA-4BFD-81F3-4EDA3ED170DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D4CFDAE-9474-4C0A-97C3-B471D539EC71}
+	EndGlobalSection
+EndGlobal
